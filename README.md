@@ -32,7 +32,7 @@ Filmorate предоставляет возможность:
 Для хранения данных используется H2 база данных.
 
 ### Схема
-![Filmorate DB structure](/src/main/resources/images/SchemeBD.png)
+![Filmorate DB structure](https://github.com/NeDredil/filmorate/blob/master/src/main/resources/images/schemeBD.png)
 
 **`films`**  
 Содержит информацию о фильмах.
